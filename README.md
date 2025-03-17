@@ -1,2 +1,2 @@
 Using Python forecasting models to predict Tesla Price. Testing on past and future data with model validation. 
-https://vimeo.com/1066504341/fdb84a19b4?share=copy
+Here is a video walkthrough the project: https://vimeo.com/1066504341/fdb84a19b4?share=copy
